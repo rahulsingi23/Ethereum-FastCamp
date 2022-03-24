@@ -61,6 +61,7 @@ NF001: Have you ever wanted to create your own NFT marketplace where you can cre
 Smart Modules: Token Modules (Ethereum)
 DappStarter: Token Marketplace
 
+NF002:  I am interested in creating an NFT marketplace to create and mint NFTs.  The marketplace would allow the NFTs to be transfered to others.  The NFTs and metadata would be backed on a support like IPFS.  These NFTs would be similar to moments on NBA Topshot and college athletes could mint these moments in the marketplace that is created.
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg)
 [Discourse](forum.decentology.com)
