@@ -62,7 +62,22 @@ Smart Modules: Token Modules (Ethereum)
 DappStarter: Token Marketplace
 
 ## Join our community:
+
 [Discord](https://discord.com/invite/uqecGxg)
 [Discourse](forum.decentology.com)
 [Twitter](www.twitter.com/decentology)
 [Decentology](www.decentology.com)
+
+# Kristen/CuddleofDeath's Project ideas:
+
+## 1. DF001 -or- DE001
+
+I plan on using the tribes app to make my own set of 'tribes' for people to join; I am not sure on what my tribes will be called quite yet, but I will have them figured out soon :) I may take the DE001 approach with this, not 100% sure yet!
+
+##2. NF001
+With this idea, I plan on making a mintable membership card for a fake/example organization.
+
+##3. GF003 - HI/LO (High/Low)
+For this idea, I am interested in making a HI/LO style game with 50/50 odds. It could simply just be a hi/lo game, or I could try to also add a win/lose streak component, and see if I can set up an NFT mint from that component as well. Essentially, the user would play the hi/lo game as many times as they want, then, they could mint their result. I am not sure if there's enough time to implement the minting, but getting the hi/lo game built would be fun :)
+
+I mentioned a few project ideas since the submission mentioned to write ALL project ideas here. I am looking forward to the next step!
