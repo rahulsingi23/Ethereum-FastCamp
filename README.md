@@ -93,3 +93,6 @@ SubDAOs are an important and useful concept moving forward, as we see more nuanc
 Probably this module will be relevant: 
 DA001: Build sub-communities within the DAO you’re starting or an active member in. With our Tribes module you can develop different groups and distribute different roles and responsibilities within them for a more optimized workflow. You can even get creative and add personalized art that represents your creators, developers, admins or any other figure within these working groups!
 Smart Modules: Tribes (Ethereum)
+
+# Rahul's Idea
+Have a DAPP of crowdfunding, which will allow to transfer the fund in one particular wallet and we can publish the wallet addresses whoever is donating the funds. Also, the expenses from the wallet also can be shown
