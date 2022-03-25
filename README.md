@@ -83,10 +83,13 @@ For this idea, I am interested in making a HI/LO style game with 50/50 odds. It 
 
 I mentioned a few project ideas since the submission mentioned to write ALL project ideas here. I am looking forward to the next step!
 
+
+## New Idea 
+NEW001: Have a livestreaming dapp that utilises tribes to give access to only members of that tribe to the livestream. This could be a kind of livestreaming app(conferences, game streaming, party, music event,...) for a particular tribe.
+
 # Edward's Project Idea
 SubDAOs are an important and useful concept moving forward, as we see more nuance decision making within DAOs.
 
 Probably this module will be relevant: 
 DA001: Build sub-communities within the DAO you’re starting or an active member in. With our Tribes module you can develop different groups and distribute different roles and responsibilities within them for a more optimized workflow. You can even get creative and add personalized art that represents your creators, developers, admins or any other figure within these working groups!
 Smart Modules: Tribes (Ethereum)
-
