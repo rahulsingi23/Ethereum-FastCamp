@@ -82,3 +82,11 @@ With this idea, I plan on making a mintable membership card for a fake/example o
 For this idea, I am interested in making a HI/LO style game with 50/50 odds. It could simply just be a hi/lo game, or I could try to also add a win/lose streak component, and see if I can set up an NFT mint from that component as well. Essentially, the user would play the hi/lo game as many times as they want, then, they could mint their result. I am not sure if there's enough time to implement the minting, but getting the hi/lo game built would be fun :)
 
 I mentioned a few project ideas since the submission mentioned to write ALL project ideas here. I am looking forward to the next step!
+
+# Edward's Project Idea
+SubDAOs are an important and useful concept moving forward, as we see more nuance decision making within DAOs.
+
+Probably this module will be relevant: 
+DA001: Build sub-communities within the DAO you’re starting or an active member in. With our Tribes module you can develop different groups and distribute different roles and responsibilities within them for a more optimized workflow. You can even get creative and add personalized art that represents your creators, developers, admins or any other figure within these working groups!
+Smart Modules: Tribes (Ethereum)
+
