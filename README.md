@@ -82,3 +82,5 @@ With this idea, I plan on making a mintable membership card for a fake/example o
 For this idea, I am interested in making a HI/LO style game with 50/50 odds. It could simply just be a hi/lo game, or I could try to also add a win/lose streak component, and see if I can set up an NFT mint from that component as well. Essentially, the user would play the hi/lo game as many times as they want, then, they could mint their result. I am not sure if there's enough time to implement the minting, but getting the hi/lo game built would be fun :)
 
 I mentioned a few project ideas since the submission mentioned to write ALL project ideas here. I am looking forward to the next step!
+## New Idea 
+NEW001: Have a livestreaming dapp that utilises tribes to give access to only members of that tribe to the livestream. This could be a kind of livestreaming app(conferences, game streaming, party, music event,...) for a particular tribe.
